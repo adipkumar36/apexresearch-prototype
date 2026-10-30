@@ -1,0 +1,8 @@
+fastapi>=0.110
+uvicorn[standard]>=0.29
+python-multipart>=0.0.9
+numpy>=1.26
+pypdf>=4.0
+python-dotenv>=1.0
+reportlab>=4.0
+langdetect>=1.0.9
